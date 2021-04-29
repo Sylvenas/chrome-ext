@@ -16,6 +16,8 @@
 
 ![](https://p6.music.126.net/obj/wo3DlcOGw6DClTvDisK1/8712271757/318e/87dc/4f66/49b513614bf73202c8c176976f5a4a13.png)
 
+> `https://github.com/` is just for example, u can try on any page.
+
 ## summary
 
 - chrome dev tools status:**open**  
