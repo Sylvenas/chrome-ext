@@ -1,0 +1,20 @@
+{
+  "short_name": "Gateway Lab",
+  "name": "Gateway Lab",
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  },
+  "permissions": [
+    "tabs",
+    "webRequest",
+    "webRequestBlocking",
+    "storage",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "devtools_page": "dev-tool.html"
+}
