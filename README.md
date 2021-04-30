@@ -1,5 +1,7 @@
 ## reproduce bug step
 
+- macOS Big Sur 11.1 
+
 ### install chrome ext
 
 - 1.download this repository code
